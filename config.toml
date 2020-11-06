@@ -1,4 +1,4 @@
-baseURL = "https://narenst.github.io/little_wings"
+baseURL = "https://narenst.github.io/little_wings/"
 languageCode = "en-us"
 title = "Little Wings"
 theme = "ananke"
