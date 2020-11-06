@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://narenst.github.io/little_wings"
 languageCode = "en-us"
 title = "Little Wings"
 theme = "ananke"
+publishDir = "docs"
 
 [params]
   description = "Montessori inspired toys for your child"
